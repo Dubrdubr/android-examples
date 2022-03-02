@@ -1,4 +1,4 @@
-package ru.dubr.fragmentnavigationexample.fragments.contracts
+package ru.dubr.fragmentnavigationexample.contracts
 
 import androidx.annotation.StringRes
 

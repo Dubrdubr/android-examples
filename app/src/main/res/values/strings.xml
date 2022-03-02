@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Fragment Navigation Example</string>
+    <string name="show_detail">Show Detail</string>
+    <string name="select_planet">Select planet</string>
+    <string name="exit">exit</string>
+    <string name="ok">ok</string>
+    <string name="details">Details</string>
+    <string name="confirm">confirm</string>
+    <string name="done">Done</string>
+    <string name="selection">Selection</string>
 </resources>

@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/dubrd/OneDrive/Documents/KURS-HUYURS/Projects/FragmentNavigationExample/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dubrd/OneDrive/Documents/KURS-HUYURS/Projects/FragmentNavigationExample/app/src/main/res/layout/fragment_details.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/dubrd/OneDrive/Documents/KURS-HUYURS/Projects/FragmentNavigationExample/app/src/main/res/layout/fragment_menu.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/dubrd/OneDrive/Documents/KURS-HUYURS/Projects/FragmentNavigationExample/app/src/main/res/layout/fragment_selection.xml" value="0.35520833333333335" />
       </map>
     </option>
   </component>
