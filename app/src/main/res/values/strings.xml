@@ -8,4 +8,5 @@
     <string name="confirm">confirm</string>
     <string name="done">Done</string>
     <string name="selection">Selection</string>
+    <string name="default_title">Fragment Navigation</string>
 </resources>
